@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on quick start by EEAS</title>
+    <link>https://cspidar.github.io/blog/tags/html/</link>
+    <description>Recent content in HTML on quick start by EEAS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cspidar.github.io/blog/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A - 웹 언어 (HTML, CSS, Javascript)</title>
+      <link>https://cspidar.github.io/blog/posts/%EC%9B%B9/a-%EC%9B%B9-%EC%96%B8%EC%96%B4-html-css-javascript/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cspidar.github.io/blog/posts/%EC%9B%B9/a-%EC%9B%B9-%EC%96%B8%EC%96%B4-html-css-javascript/</guid>
+      <description>1. 관계         Node
+  Document
+  HTMLDocument
+     CharacterData
+  Text
+  Comment
+        Element
+  HTMLElement
+  HTMLHeadElement
+  HTMLLIElement
+        Attr
+      Element, Tag, Attribute, Property, Component 
+      2.</description>
+    </item>
+    
+  </channel>
+</rss>
